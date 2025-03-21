@@ -1,0 +1,7 @@
+POST https://pedroallas.app.n8n.cloud/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+  "ChatId": "12345678",
+  "Mensagem": "Você trabalha com node js?"
+}
