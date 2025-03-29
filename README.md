@@ -94,5 +94,4 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 -   [NestJS](https://docs.nestjs.com/)
 -   [Prisma](https://www.prisma.io/docs)
 -   [Supabase](https://supabase.com)
-=======
 
