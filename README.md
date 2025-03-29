@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧑‍💻 Portfolio-app
 
 <div align="center">
