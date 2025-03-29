@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍💻 Portfolio-app
 
 <div align="center">
@@ -94,3 +95,6 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 -   [NestJS](https://docs.nestjs.com/)
 -   [Prisma](https://www.prisma.io/docs)
 -   [Supabase](https://supabase.com)
+=======
+
+>>>>>>> db0d8a8346b752671e738840a4047d38e863c8ef
